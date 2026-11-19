@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.formtango/formtango",
+  "title": "FormTango",
+  "description": "Form backend: create form endpoints, get framework snippets and read submissions.",
+  "version": "1.0.0",
+  "websiteUrl": "https://formtango.com/ai",
+  "remotes": [{ "type": "streamable-http", "url": "https://formtango.com/mcp" }]
+}
